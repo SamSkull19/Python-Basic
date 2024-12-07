@@ -34,3 +34,6 @@ print(country_name[:18])  # Output: My Country name is
 # Assigning the entire string to another variable and printing it
 another = country_name[:]
 print(another)  # Output: My Country name is Bangladesh
+
+# Printing characters from index 1 (2nd character) to the second last character
+print(another[1:-1])  # Output: y Country name is Banglades
