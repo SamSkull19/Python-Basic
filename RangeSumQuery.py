@@ -1,4 +1,4 @@
-# https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M
+# https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y
 
 n, q = list(map(int, input().split()))
 a = list(map(int, input().split()))
